@@ -6,7 +6,6 @@ package com.Patterns;
        ***
         **
          *
-
 */
 
 
